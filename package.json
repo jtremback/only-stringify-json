@@ -1,0 +1,11 @@
+{
+  "name": "only-stringify-json",
+  "version": "1.0.0",
+  "description": "This module will not attempt to stringify Numbers, Strings, or Booleans.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jehan.tremback@gmail.com <you@example.com>",
+  "license": "MIT"
+}
